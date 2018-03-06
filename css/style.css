@@ -1,12 +1,12 @@
 html, body {margin: 0; padding: 0;}
 
 body {
-  background: #000;
+  background: #4B4209;
   position: relative;
 }
 
 .mg-link {
-  color: #019cdc;
+  color: #87CCE5;
   font-size: 12px;
   display: block;
 }
@@ -17,13 +17,20 @@ body {
 }
 
 a:hover, a:visited:hover {
-  color: #7ac043;
+  color: #404040;
 }
-
+h1{
+  color: #030506;
+}
 a:visited {
-  color: #f58428;
+  color: #0F034A;
 }
-
+a.alt-link {
+  color: #820000;
+}
+a.ui-link{
+  color:  #520266;
+}
 .outer {
   box-sizing: border-box;
   padding: 40px;
@@ -118,15 +125,15 @@ a:visited {
 }
 
 .square-one .inner {
-  background: #f58428;
+  background: #BF0606;
 }
 
 .square-two .inner {
-  background: #7ac043
+  background: #F2F1F0
 }
 
 .square-three .inner {
-  background: #019cdc;
+  background: #234CA5;
 }
 
 .details {
