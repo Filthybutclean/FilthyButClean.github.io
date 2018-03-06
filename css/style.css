@@ -1,7 +1,7 @@
 html, body {margin: 0; padding: 0;}
 
 body {
-  background: #4B4209;
+  background: #EB9CCF;
   position: relative;
 }
 
@@ -17,19 +17,19 @@ body {
 }
 
 a:hover, a:visited:hover {
-  color: #404040;
+  color: #F2F2F2;
 }
 h1{
   color: #030506;
 }
 a:visited {
-  color: #0F034A;
+  color: #234CA5;
 }
 a.alt-link {
   color: #820000;
 }
 a.ui-link{
-  color:  #520266;
+  color:  #87CCE5;
 }
 .outer {
   box-sizing: border-box;
